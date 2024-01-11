@@ -5,3 +5,4 @@ resources:
 - gotk-sync.yaml
 - podinfo-kustimization.yaml
 - podinfo-source.yaml
+- weave-gitops-dashboard.yaml
